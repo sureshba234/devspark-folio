@@ -54,7 +54,7 @@ const ContactSection = () => {
     {
       icon: MapPin,
       label: "Location",
-      value: "San Francisco, CA",
+      value: "Hyderabad, Telangana",
       href: "#"
     }
   ];
